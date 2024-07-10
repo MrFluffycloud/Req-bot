@@ -1,0 +1,293 @@
+"1060597765773733959":
+    welcome:
+        channel: "1148354803399917678"
+        message: Welcome to Mercury Advertisements🪐. We hope you enjoy your stay here!
+    frms:
+        Human-Resources-Team: "1150015056893980754"
+"1026321656920150066":
+    suggestions:
+        "1148375767420514314":
+            upvotes:
+                - "674781875197313056"
+                - "832605736554725469"
+                - "935640234698346586"
+                - "1007075904314429500"
+            downvotes: []
+    config:
+        logChannel: "1045473077745688586"
+    frms: {}
+    forms:
+        - name: Partner
+          channel: "1148799081515339887"
+          questions:
+              - What is the servers name and id?
+              - Does the server meet our rules?
+              - How many members does it have?
+              - Send the servers invite.
+              - Send the servers advertisement.
+    suggestion:
+        channel: "1045472680087912458"
+    giveaway:
+        multi:
+            - role: "1026322041705599086"
+              multi: 1
+        "1167684544338599967":
+            entry: []
+            entered: 0
+            winners: []
+"1102052303491567697":
+    config:
+        logChannel: "1149178757551235132"
+        adwarn_channel: "1148795961313865788"
+    suggestion:
+        channel: "1148795961313865788"
+    suggestions:
+        "1150102570472325164":
+            suggestion: Play Fortnite,
+            user: "1129730957096800266"
+            message: "1150102570472325164"
+            channel: "1148795961313865788"
+            guild: "1102052303491567697"
+            createdAt: 1694276220910
+            url: https://discord.com/channels/1102052303491567697/1148795961313865788/1150102570472325164
+            upvotes: []
+            downvotes:
+                - "1129730957096800266"
+        "1150102957409447947":
+            suggestion: Hello
+            user: "1129730957096800266"
+            message: "1150102957409447947"
+            channel: "1148795961313865788"
+            guild: "1102052303491567697"
+            createdAt: 1694276313046
+            url: https://discord.com/channels/1102052303491567697/1148795961313865788/1150102957409447947
+        "1150615218284675182":
+            suggestion: Test
+            user: "935640234698346586"
+            message: "1150615218284675182"
+            channel: "1148795961313865788"
+            guild: "1102052303491567697"
+            createdAt: 1694398445769
+            url: https://discord.com/channels/1102052303491567697/1148795961313865788/1150615218284675182
+    moderations: []
+    giveaway:
+        "1184638693013733456":
+            entry:
+                - "935640234698346586"
+            entered: 1
+            winners:
+                - "935640234698346586"
+        multi:
+            - role: "1102053413686087751"
+              multi: 1
+            - role: "1148796058869174383"
+              multi: 1
+        "1184638851772325919":
+            entry:
+                - "935640234698346586"
+                - "935640234698346586"
+            entered: 1
+            winners:
+                - "935640234698346586"
+    welcome:
+        channel: "1148796384066162798"
+        message: Welcome {{user}}, to get started check the links below!
+    memberlog:
+        channel: "1149178757551235132"
+    frms: {}
+    forms: []
+giveaways:
+    - messageId: "1151936857794424854"
+      channelId: "1093235633864052738"
+      guildId: "1093235633352355991"
+      prize: Cactus Segreto
+      started: 1694713548979
+      winCount: 1
+      endTime: 1694713548989
+      hostedBy: "1052184687268876338"
+      ended: true
+      url: https://discord.com/channels/1093235633352355991/1093235633864052738/1151936857794424854
+    - messageId: "1157403123212636233"
+      channelId: "1093235633864052738"
+      guildId: "1093235633352355991"
+      prize: Cactus Segreto
+      started: 1696016808225
+      winCount: 9999999
+      endTime: 1696016823225
+      hostedBy: "1052184687268876338"
+      ended: true
+      url: https://discord.com/channels/1093235633352355991/1093235633864052738/1157403123212636233
+    - messageId: "1159899654507466814"
+      channelId: "1093235633864052738"
+      guildId: "1093235633352355991"
+      prize: Cactus Segreto
+      started: 1696612029140
+      winCount: 1
+      endTime: 1696612039140
+      hostedBy: "1052184687268876338"
+      ended: true
+      url: https://discord.com/channels/1093235633352355991/1093235633864052738/1159899654507466814
+    - messageId: "1167684544338599967"
+      channelId: "1045466121064685708"
+      guildId: "1026321656920150066"
+      prize: asdasd
+      started: 1698468090094
+      winCount: 1
+      endTime: 1698468095094
+      hostedBy: "935640234698346586"
+      ended: true
+      url: https://discord.com/channels/1026321656920150066/1045466121064685708/1167684544338599967
+    - messageId: "1170599447391113327"
+      channelId: "1170596750487199817"
+      guildId: "1170596750038413352"
+      prize: nitro
+      started: 1699163056983
+      winCount: 1
+      endTime: 1699249456983
+      hostedBy: "1115745887658967120"
+      ended: false
+      url: https://discord.com/channels/1170596750038413352/1170596750487199817/1170599447391113327
+    - messageId: "1184638693013733456"
+      channelId: "1148795961313865788"
+      guildId: "1102052303491567697"
+      prize: Test
+      started: 1702510273992
+      winCount: 1
+      endTime: 1702510293992
+      hostedBy: "935640234698346586"
+      ended: true
+      url: https://discord.com/channels/1102052303491567697/1148795961313865788/1184638693013733456
+    - messageId: "1184638851772325919"
+      channelId: "1148795961313865788"
+      guildId: "1102052303491567697"
+      prize: Testttttttt
+      started: 1702510311850
+      winCount: 1
+      endTime: 1702510321850
+      hostedBy: "935640234698346586"
+      ended: true
+      url: https://discord.com/channels/1102052303491567697/1148795961313865788/1184638851772325919
+    - messageId: "1186379468185542678"
+      channelId: "1104491397886787764"
+      guildId: "994437987347734589"
+      prize: Basic Nitro
+      started: 1702925315265
+      winCount: 1
+      endTime: 1703011715265
+      hostedBy: "589219099440185345"
+      ended: true
+      url: https://discord.com/channels/994437987347734589/1104491397886787764/1186379468185542678
+"1093235633352355991":
+    giveaway:
+        "1151936857794424854":
+            entry: []
+            entered: 0
+            winners: []
+        "1157403123212636233":
+            entry: []
+            entered: 0
+            winners: []
+        "1159899654507466814":
+            entry: []
+            entered: 0
+            winners: []
+    welcome:
+        message: Benvenuto/a nel server! Spero ti troverai bene!
+"1151964670731767878":
+    config:
+        logChannel: "1152660983261712465"
+    suggestion:
+        channel: "1152329171318612130"
+    suggestions:
+        "1152673218042282004":
+            suggestion: test
+            user: "1025240334445326346"
+            message: "1152673218042282004"
+            channel: "1152329171318612130"
+            guild: "1151964670731767878"
+            createdAt: 1694889110899
+            url: https://discord.com/channels/1151964670731767878/1152329171318612130/1152673218042282004
+            upvotes:
+                - "1025240334445326346"
+"1170596750038413352":
+    giveaway:
+        "1170599447391113327":
+            entry:
+                - "1115745887658967120"
+            entered: 1
+            winners: []
+    welcome:
+        channel: "1170596750487199817"
+"1161728658831069187":
+    break:
+        channel: "1161728664946360321"
+"1162951891009933344":
+    welcome:
+        channel: "1164399560207118366"
+    giveaway:
+        "1184302224575320155":
+            entry: []
+            entered: 0
+            winners: []
+    config:
+        logChannel: "1163255108084191323"
+"1183091409243361340":
+    welcome:
+        channel: "1183098949469470740"
+        message: Welcome {{user}} `({{userid}})` to {{guild}}! Get started by viewing
+            <#1183091410283536496>!
+    config:
+        logChannel: "1183105827343696004"
+"1177803685481422889":
+    welcome:
+        channel: "1178276650543218788"
+        message: Hello my friend
+"1096060262697685109":
+    config:
+        logChannel: "1099375557143179274"
+"1180208665282760795":
+    welcome:
+        channel: "1180248538416939018"
+"994437987347734589":
+    giveaway:
+        "1186379468185542678":
+            entry:
+                - "798992756428636180"
+                - "393924668299673602"
+                - "997984735517229126"
+                - "548181566879301642"
+                - "707549304382029845"
+            entered: 5
+            winners:
+                - "393924668299673602"
+"1131338555118067845":
+    welcome:
+        channel: "1131342949582643342"
+    suggestion:
+        channel: "1131925546968825947"
+    config:
+        logChannel: "1187861471166742688"
+"1181966979297452072":
+    welcome:
+        channel: "1181968333751459850"
+    config:
+        logChannel: "1181996160748109955"
+"1186709989922971749":
+    welcome:
+        channel: "1186709989935562858"
+    break:
+        channel: "1188987834665812039"
+        role: "1188987924017061898"
+    config:
+        logChannel: "1188934183683371078"
+    giveaway:
+        multi:
+            - role: "1186709989922971750"
+              multi: 3
+            - role: "1189719901456306236"
+              multi: 2
+breaks:
+    "1186709989922971749":
+        "589219099440185345":
+            guild: "1186709989922971749"
+            time: 1703547399013

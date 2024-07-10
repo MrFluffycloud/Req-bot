@@ -1,0 +1,42 @@
+giveaways:
+    - messageId: "1189829960223965224"
+      channelId: "1148795961313865788"
+      guildId: "1102052303491567697"
+      prize: Test
+      started: 1703747968545
+      winCount: 1
+      endTime: 1703747978545
+      hostedBy: "935640234698346586"
+      ended: true
+      url: https://discord.com/channels/1102052303491567697/1148795961313865788/1189829960223965224
+"1102052303491567697":
+    giveaway:
+        "1189829960223965224":
+            entry:
+                - "935640234698346586"
+            entered: 1
+            winners:
+                - "935640234698346586"
+    welcome:
+        channel: "1149178757551235132"
+        message: I work!
+        enabled: true
+        footer: You're the {{count}} member!
+    leave:
+        enabled: true
+        channel: "1148795961313865788"
+        message: test
+        color: "#FFFFFF"
+    memberlog:
+        channel: "1148795961313865788"
+    config:
+        logChannel: "1149178757551235132"
+    admod:
+        warns:
+            "676745968867082250": 1
+        channel: "1149178757551235132"
+        message: wadasdwads
+        reasons:
+            - correction: DOnt be an asshole?
+              reason: BRO WAS BEING AN ASSHOLE
+              value: bro_was_being_an_asshole
